@@ -1,0 +1,26 @@
+{
+  "name": "graphql-admin-schema-provider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FilipePrates/graphql-admin-schema-provider.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FilipePrates/graphql-admin-schema-provider/issues"
+  },
+  "homepage": "https://github.com/FilipePrates/graphql-admin-schema-provider#readme",
+  "dependencies": {
+    "@neo4j/graphql": "^3.16.1",
+    "apollo-server": "^3.11.1",
+    "graphql": "^16.6.0",
+    "neo4j-driver": "^5.5.0"
+  }
+}
